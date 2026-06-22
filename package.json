@@ -1,5 +1,5 @@
 {
-  "homepage": "https://arunshahi123.github.io/sample",
+  "homepage": "https://github.com/arunshahi123/News-portal.git",
   "name": "react",
   "private": true,
   "version": "0.0.0",
@@ -10,7 +10,7 @@
     "dev": "vite",
     "start": "react-scripts start",
     "build": "vite build ",
-    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "lint": "eslint ",
     "preview": "vite preview"
   },
   "dependencies": {
